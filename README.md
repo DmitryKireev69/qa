@@ -9,5 +9,4 @@ API-сервис для вопросов и ответов. Позволяет �
 2. Убедитесь, что Docker и Docker Compose установлены
 
 3. Запустите команду:
-```bash
-docker-compose up --build docker-compose up -d
+docker-compose up -d --build
