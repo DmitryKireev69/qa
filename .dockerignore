@@ -1,0 +1,12 @@
+.idea
+venv
+.git
+.gitignore
+*.pyc
+__pycache__
+*.sqlite3
+.DS_Store
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
